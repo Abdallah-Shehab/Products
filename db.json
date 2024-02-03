@@ -8,7 +8,7 @@
       "price": 999.99,
       "color": "Silver",
       "inStock": true,
-      "image": "../images/Proudcts/laptop2.png",
+      "image": "https://i.ibb.co/GsjVRts/laptop2.png",
       "description": "Powerful laptop with high-performance specifications for work and entertainment."
     },
     {
@@ -19,19 +19,20 @@
       "price": 599.99,
       "color": "Black",
       "inStock": true,
-      "image": "../images/Proudcts/Smartphone.png",
+      "image": "https://i.ibb.co/W3cLnNK/Smartphone.png",
       "description": "Cutting-edge smartphone with advanced features and sleek design."
     },
     {
       "id": 3,
-      "name": "Wireless Headphones",
-      "brand": "SonicWave",
+      "name": "Mouse",
+      "brand": "TechMaster",
       "category": "Electronics",
-      "price": 129.99,
-      "color": "Blue",
-      "inStock": false,
-      "image": "../images/Proudcts/Wireless Headphones.png",
-      "description": "Immersive wireless headphones with noise-canceling technology for a superior audio experience."
+      "price": 999.99,
+      "color": "Silver",
+      "inStock": true,
+      "image": "https://i.ibb.co/bPhs3Nn/mouse2.png",
+      "description": "Ergonomic and precise mouse for seamless navigation and control during your computing tasks."
+      
     },
     {
       "id": 4,
@@ -41,7 +42,7 @@
       "price": 199.99,
       "color": "Rose Gold",
       "inStock": true,
-      "image": "../images/Proudcts/Smart Watch.png",
+      "image": "https://i.ibb.co/FbH7Zh7/Smart-Watch.png",
       "description": "Fashionable smartwatch with health tracking features and customizable watch faces."
     },
     {
@@ -52,7 +53,7 @@
       "price": 799.99,
       "color": "Black",
       "inStock": true,
-      "image": "../images/Proudcts/tv.png",
+      "image": "https://i.ibb.co/Z64vL3P/tv.png",
       "description": "Immerse yourself in stunning 4K UHD visuals with this sleek and feature-packed television."
     },
     {
@@ -63,7 +64,7 @@
       "price": 449.99,
       "color": "Red",
       "inStock": true,
-      "image": "../images/Proudcts/console.png",
+      "image": "https://i.ibb.co/fFRcHBy/console.png",
       "description": "High-performance gaming console for an immersive gaming experience with realistic graphics."
     },
     {
@@ -74,7 +75,7 @@
       "price": 349.99,
       "color": "Silver",
       "inStock": false,
-      "image": "../images/Proudcts/Digital Camera.png",
+      "image": "https://i.ibb.co/HqQBBBz/Digital-Camera.png",
       "description": "Capture stunning moments with this feature-packed digital camera, perfect for photography enthusiasts."
     },
     {
@@ -85,7 +86,7 @@
       "price": 599.99,
       "color": "Black",
       "inStock": true,
-      "image": "../images/Proudcts/soundSystem.png",
+      "image": "https://i.ibb.co/w7yN2cN/sound-System.png",
       "description": "Transform your living room into a cinematic experience with this high-quality home theater system."
     },
     {
@@ -96,7 +97,7 @@
       "price": 79.99,
       "color": "Green",
       "inStock": true,
-      "image": "../images/Proudcts/tracker.png",
+      "image": "https://i.ibb.co/RDczC2X/tracker.png",
       "description": "Stay fit and healthy with this fitness tracker that monitors your activity, sleep, and heart rate."
     },
     {
@@ -107,7 +108,7 @@
       "price": 299.99,
       "color": "Gold",
       "inStock": true,
-      "image": "../images/Proudcts/iad.png",
+      "image": "https://i.ibb.co/j6mkgpD/iad.png",
       "description": "Portable tablet for work and entertainment on the go, featuring a high-resolution display."
     },
     {
@@ -118,7 +119,7 @@
       "price": 1299.99,
       "color": "Stainless Steel",
       "inStock": true,
-      "image": "../images/Proudcts/Smart Refrigerator.png",
+      "image": "https://i.ibb.co/rQ2NSf6/Smart-Refrigerator.png",
       "description": "Smart refrigerator with advanced cooling technology, spacious interior, and interactive features."
     },
     {
@@ -129,7 +130,7 @@
       "price": 499.99,
       "color": "White",
       "inStock": false,
-      "image": "../images/Proudcts/drone.png",
+      "image": "https://i.ibb.co/pZS3Qxp/drone.png",
       "description": "Explore the skies with this powerful drone equipped with a high-resolution camera."
     },
     {
@@ -140,7 +141,7 @@
       "price": 89.99,
       "color": "Red",
       "inStock": true,
-      "image": "../images/Proudcts/speaker.png",
+      "image": "https://i.ibb.co/2SgPCQy/speaker.png",
       "description": "Compact and portable speaker for on-the-go music enjoyment with clear and rich sound."
     },
     {
@@ -151,7 +152,7 @@
       "price": 69.99,
       "color": "Black",
       "inStock": true,
-      "image": "../images/Proudcts/coffe.png",
+      "image": "https://i.ibb.co/Jj4DzRw/coffe.png",
       "description": "Brew your favorite coffee at home with this easy-to-use and stylish coffee maker."
     },
     {
@@ -162,7 +163,7 @@
       "price": 299.99,
       "color": "Blue",
       "inStock": true,
-      "image": "../images/Proudcts/scotter.png",
+      "image": "https://i.ibb.co/Dt5MGFV/scotter.png",
       "description": "Eco-friendly electric scooter for convenient and efficient urban commuting."
     },
     {
@@ -173,7 +174,7 @@
       "price": 399.99,
       "color": "Gray",
       "inStock": true,
-      "image": "../images/Proudcts/camerSys.png",
+      "image": "https://i.ibb.co/mBwVKFr/camerSys.png",
       "description": "Ensure the safety of your home with this advanced security camera system with real-time monitoring."
     },
     {
@@ -184,7 +185,7 @@
       "price": 199.99,
       "color": "Silver",
       "inStock": true,
-      "image": "../images/Proudcts/vacum.png",
+      "image": "https://i.ibb.co/dpkKV4q/vacum.png",
       "description": "Efficient robot vacuum cleaner for hands-free cleaning of your living space."
     },
     {
@@ -195,7 +196,7 @@
       "price": 49.99,
       "color": "Black",
       "inStock": true,
-      "image": "../images/Proudcts/keyboardandmouse.png",
+      "image": "https://i.ibb.co/K0nGQv2/keyboardandmouse.png",
       "description": "Wireless keyboard and mouse combo for comfortable and hassle-free computing."
     },
     {
@@ -206,7 +207,7 @@
       "price": 129.99,
       "color": "Rose Gold",
       "inStock": true,
-      "image": "../images/Proudcts/airpods.png",
+      "image": "https://i.ibb.co/hZtPxt6/airpods.png",
       "description": "Wireless Bluetooth earbuds for immersive audio experience with a stylish design."
     },
     {
@@ -217,19 +218,19 @@
       "price": 89.99,
       "color": "Silver",
       "inStock": true,
-      "image": "../images/Proudcts/hard.png",
+      "image": "https://i.ibb.co/VNB1w22/hard.png",
       "description": "Expand your storage capacity with this portable external hard drive for secure data storage."
     },
     {
       "id": 21,
-      "name": "Mouse",
-      "brand": "TechMaster",
+      "name": "Wireless Headphones",
+      "brand": "SonicWave",
       "category": "Electronics",
-      "price": 999.99,
-      "color": "Silver",
-      "inStock": true,
-      "image": "../images/Proudcts/mouse2.png",
-      "description": "Ergonomic and precise mouse for seamless navigation and control during your computing tasks."
+      "price": 129.99,
+      "color": "Blue",
+      "inStock": false,
+      "image": "https://i.ibb.co/NCKnpgX/Wireless-Headphones.png",
+      "description": "Immersive wireless headphones with noise-canceling technology for a superior audio experience."
     }
   ]
 }
